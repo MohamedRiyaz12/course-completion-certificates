@@ -1,4 +1,4 @@
-#  Course Completion Certificates
+# Course Completion Certificates
 
 Welcome to my Course Completion Certificates repository.
 
@@ -10,12 +10,13 @@ This repository contains certificates earned through various Cloud Computing, De
   - Electronics & ICT Academy, IIT Guwahati
   - Training Partner: Besant Technologies
 
-- AWS DevOps Course Completion
+- Cloud Computing Offline Course Completion (CCNA,Linux,AWS,DevOps)
   - Besant Technologies
 
-- AWS DevOps Course Completion
-  - StarAgile
+- DevOps Online Course Completion
+  - StarAgile Institute
 
 More certifications will be added as I continue my learning journey.
 
 Thank you for visiting!
+
