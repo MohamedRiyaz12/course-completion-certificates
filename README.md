@@ -11,7 +11,7 @@ This repository contains certificates earned through various Cloud Computing, De
   - Training Partner: Besant Technologies
 
 - Cloud Computing Offline Course Completion (CCNA,Linux,AWS,DevOps)
-  - Besant Technologies
+  - Besant Technologies Anna nagar,Chennai
 
 - DevOps Online Course Completion
   - StarAgile Institute
